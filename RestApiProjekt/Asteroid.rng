@@ -1,0 +1,19 @@
+<element name="Asteroid"  datatypeLibrary="http://www.w3.org/2001/XMLSchema-datatypes" xmlns="http://relaxng.org/ns/structure/1.0" ns="http://schemas.datacontract.org/2004/07/RestApiProjekt.Models">
+	<oneOrMore>
+		<element name="Id">
+			<text/>
+		</element>
+		<element name="Name">
+			<text/>
+		</element>
+		<element name="EstimatedMinimumDiameter">
+			<text/>
+		</element>
+		<element name="EstimatedMaximumDiameter">
+			<text/>
+		</element>
+		<element name="PotentiallyHazardous">
+			<text/>
+		</element>
+	</oneOrMore>
+</element>
