@@ -1,0 +1,16 @@
+<Asteroids>
+  <Asteroid>
+    <Id>12</Id>
+    <Name>A12</Name>
+    <EstimatedMinimumDiameter>0.11</EstimatedMinimumDiameter>
+    <EstimatedMaximumDiameter>0.12</EstimatedMaximumDiameter>
+    <PotentiallyHazardous>Yes</PotentiallyHazardous>
+  </Asteroid>
+  <Asteroid>
+    <Id>13</Id>
+    <Name>B13</Name>
+    <EstimatedMinimumDiameter>0.02</EstimatedMinimumDiameter>
+    <EstimatedMaximumDiameter>0.1</EstimatedMaximumDiameter>
+    <PotentiallyHazardous>No</PotentiallyHazardous>
+  </Asteroid>
+</Asteroids>
